@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "375682445212-o0v8kg0rvj596ejltvt0uh9jc011ufmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.vedmitry.mnyaha",
+            "certificate_hash": "8d1f3441dd9d82fc4682d5dbd58058d5a6358cae"
+          }
+        },
+        {
           "client_id": "375682445212-blsarrq83e0tpcrmav4cjhf4ok0lh825.apps.googleusercontent.com",
           "client_type": 3
         }
